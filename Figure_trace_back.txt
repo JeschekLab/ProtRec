@@ -1,0 +1,50 @@
+Fig.	Source
+1c	/uASPIre screen2_2021-03-30_pop2/01_pop2/plots/1_flipping_TEVp/figure_1C.pdf
+1e	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/01_internal_controls/plots/heatmaps/in_vivo_vs_in_vitro_dnAUCrel.pdf 
+2b	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/heatmaps/TEVp_pos_vs_TEVs_pos_complete_log2avg.pdf
+2c left	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/heatmaps/exempl_P5_46.pdf
+2c middle	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/heatmaps/exempl_P1_127.pdf
+2c right	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/heatmaps/exempl_P1'_31.pdf
+2d	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/specificity_all_TEVp_mutants_horizontal_category_incl.wt.pdf
+3a left	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/literature_variants/check_N171D_P6_P_dnAUC.pdf
+3a right	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/literature_variants/check_N176T_P6_T_dnAUC.pdf
+3b	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/P5analysis/handpicked_variants.pdf
+3c	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/specificity_P92M_TEVp_barplot.pdf
+4c left	/uASPIre screen3_2021-07-20_ABC/04_ABC_screen/plots/heatmaps/screen_all_variants_dnAUC.png
+4c middle	/uASPIre screen4 and 5_2022_08_11/uASPIre screen5_MLDEEP/02_MLDEEP/plots/heatmaps/all_variants_dnAUC_XYZ.png
+4c right	/uASPIre screen4 and 5_2022_08_11/uASPIre screen5_MLDEEP/02_MLDEEP/plots/heatmaps/all_variants_dnAUC_ABCXYZ.png
+4d	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/06_validation_of_hits/plots/heatmaps/P1p_validated_in_uASPIre_dnAUC.pdf
+4e	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/06_validation_of_hits/plots/heatmaps/P1p_iv_all_variants.pdf
+S2	/uASPIre screen1_2020-10-20_dynamic range/01_dynamic_range/plots/flipping_induction_promoter_selected.pdf
+S3a	/uASPIre screen2_2021-03-30_pop2/01_pop2/plots/3_binding/fold_change.pdf
+S3b	/uASPIre screen2_2021-03-30_pop2/01_pop2/plots/3_binding/effect_of_binding_ENLYFQS.pdf
+S4a	/uASPIre screen1_2020-10-20_dynamic range/01_dynamic_range/plots/AUC_fc_NEW.pdf
+S4b	/uASPIre screen2_2021-03-30_pop2/01_pop2/plots/5_reproducibility/replicates.pdf
+S5a	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/01_internal_controls/plots/negative_controls/distribution_individual.pdf
+S5b	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/01_internal_controls/plots/negative_controls/distribution_fitted.pdf
+S6	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/01_internal_controls/plots/compare/correlations_grid.pdf
+S7a	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/03_DMS_controls/plots/negative_controls/distribution_individual.pdf
+S7b	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/03_DMS_controls/plots/negative_controls/distribution_fitted.pdf
+S7c	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/03_DMS_controls/plots/compare/in_vivo_vs_in_vitro_dnAUCrel_grid.pdf
+S8a	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/04_DMS_false_positives/plots/histogram_TEVp_BCs_fc_corrected_min20DNAlevel.pdf
+S8b	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/04_DMS_false_positives/plots/histogram_TEVs_BCs_fc_corrected_min20DNAlevel.pdf
+S8c	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/04_DMS_false_positives/plots/histogram_replicates_fc_corrected_min20DNAlevel.pdf
+S8d	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/pie_chart_Combinatorial library.pdf
+S8e	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/scatter_AUC.png
+S9a	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/all_positions_boxplot_ENLYFQS_only.pdf
+S9b	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/heatmaps/TEVp_pos_vs_TEVp_AA_wtTEVs_facet_hydrophobicity_log2_normalized_split_blue-red.pdf
+S9c	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/heatmaps/bfactors_ENLYFQS_percentile.pdf
+S9d	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/truncated_TEVp_wtsubstrate.pdf
+S10	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/all_positions_boxplot.pdf
+S11	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/heatmaps/TEVp_pos_vs_TEVs_AA_per_TEVspos_grid.pdf
+S12	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/specificity_wt_TEVp_barplot.pdf
+S13	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/heatmaps/promiscuous/P1_15substrates_dnAUC.pdf
+S14	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/plots/ABC_XYZ_activities_fc_spec.pdf
+S15a A left	/uASPIre screen3_2021-07-20_ABC/04_ABC_screen/plots/pie_chart_min20_TEVp library_1_.pdf
+S15a A right	/uASPIre screen3_2021-07-20_ABC/04_ABC_screen/plots/pie_chart_min20_Combinatorial library_1_.pdf
+S15a B left	/uASPIre screen4 and 5_2022_08_11/uASPIre screen5_MLDEEP/02_MLDEEP/plots/pie_chart_min20_TEVp library_XYZ.pdf
+S15a B right	/uASPIre screen4 and 5_2022_08_11/uASPIre screen5_MLDEEP/02_MLDEEP/plots/pie_chart_min20_Combinatorial library_XYZ.pdf
+S15a AB left	/uASPIre screen4 and 5_2022_08_11/uASPIre screen5_MLDEEP/02_MLDEEP/plots/pie_chart_min20_TEVp library_ABCXYZ.pdf
+S15a AB right	/uASPIre screen4 and 5_2022_08_11/uASPIre screen5_MLDEEP/02_MLDEEP/plots/pie_chart_min20_Combinatorial library_ABCXYZ.pdf
+S15b	/uASPIre screen3_2021-07-20_ABC/04_ABC_screen/plots/AA_count_vs_theory.pdf
+S24	/uASPIre screen3_2021-07-20_ABC/01_internal_controls/plots/WithSphI_vs_withoutSphI_AUC.pdf

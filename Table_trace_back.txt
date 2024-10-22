@@ -1,0 +1,4 @@
+Table	Source	
+S2	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/results/bfactors_using_wtTEVs_lowest.txt	
+S3	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/results/bfactors_using_wtTEVs_highest.txt	
+S4	/uASPIre screen4 and 5_2022_08_11/uASPIre screen4_DMS/05_DMS/results/top_variants_for_P1_activity.txt	
