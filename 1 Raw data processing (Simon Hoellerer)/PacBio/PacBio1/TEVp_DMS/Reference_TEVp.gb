@@ -1,0 +1,33 @@
+LOCUS       TEVp         910 bp    DNA     linear   UNA 15-JUL-2022
+DEFINITION  .
+ACCESSION   urn.local...1s-f24yxnp
+VERSION     urn.local...1s-f24yxnp
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     RBS_promoter      1..88
+                     /standard_name="RBS_promoter"
+     TEVp             89..796
+                     /standard_name="TEVp"
+     terminator      797..910
+                     /note="Geneious type: terminator"
+                     /standard_name="T1"
+ORIGIN      
+        1 actagtttta cggctagctc agccctaggt attatgctag caccggtcta gaaataattt
+       61 tgtttaactt taagaaggag atatacatat gggcgaaagc ctgtttaaag gtccgcgtga
+      121 ttataatccg attagcagca gcatttgcca tctgaccaat gaaagtgatg gtcataccac
+      181 cagtctgtat ggtattggtt ttggtccgtt tattatcacc aataaacacc tgtttcgtcg
+      241 caataatggc accctggtgg ttcagagcct gcatggtgtt tttaaagtta aagataccac
+      301 caccctgcag cagcatctgg ttgatggtcg tgatatgatt attattcgta tgccgaaaga
+      361 ttttccgcct tttccgcaga aactgaaatt tcgtgaaccg cagcgtgaag aacgtatttg
+      421 tctggttacc accaattttc agaccaaaag catgagcagc atggttagcg ataccagctg
+      481 tacctttccg agcggtgatg gtattttttg gaaacattgg attcagacca aagatggtca
+      541 gtgtggtagt ccgctggtta gcacccgtga tggttttatt gttggtattc atagcgccag
+      601 caactttacc aataccaaca actattttac cagcgtgccg aaaaacttca tggaactgct
+      661 gaccaatcaa gaggcacagc agtgggttag cggttggcgt ctgaatgcag atagcgttct
+      721 gtggggtggt cataaagttt ttatggtgaa accggaagaa ccgtttcagc cggttaaaga
+      781 agcgacccag ctgtaattaa ttaaaggcat caaataaaac gaaaggctca gtcgaaagac
+      841 tgggcctttc gttttatctg ttgtttgtcg gtgaacgctc tcctgagtag gacaaatccg
+      901 ccgccctaga
+//

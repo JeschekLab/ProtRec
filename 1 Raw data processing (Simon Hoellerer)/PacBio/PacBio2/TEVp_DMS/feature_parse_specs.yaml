@@ -1,0 +1,26 @@
+TEVp: &TEVp_parse_specs
+  query_clip5: null
+  query_clip3: null
+  RBS_promoter:
+    filter:
+      clip5: null
+      clip3: null
+      mutation_nt_count: 1
+      mutation_op_count: null
+    return: []
+  TEVp:
+    filter:
+      clip5: 0
+      clip3: 0
+      mutation_nt_count: 45
+      mutation_op_count: null
+    return: [mutations, accuracy]
+  terminator:
+    filter:
+      clip5: null
+      clip3: null
+      mutation_nt_count: 1
+      mutation_op_count: null
+    return: []
+
+TEVp: *TEVp_parse_specs
