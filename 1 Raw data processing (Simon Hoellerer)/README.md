@@ -1,6 +1,6 @@
 # uASPIre_TEV
 
-This repository contains the data of _**u**ltradeep **A**cquisition of **S**equence-**P**henotype **I**nter**re**lations_ (uASPIre) and the code for processing raw NGS data as presented in the publication "Title" (https://doi.org/xxxxxx).
+This repository contains the data of _**u**ltradeep **A**cquisition of **S**equence-**P**henotype **I**nter**re**lations_ (uASPIre) and the code for processing raw NGS data as presented in the publication "Data-driven Protease Engineering by DNA-Recording and Epistasis-aware Machine Learning".
 
 
 ## Organization of the repository
